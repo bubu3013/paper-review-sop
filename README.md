@@ -1,19 +1,15 @@
-# EMNLP 2026 Demo Track — Peer Review
+# Paper Review Workspace
 
-Materials for reviewing submissions to the EMNLP 2026 Demo Track.
+A general-purpose workspace for peer-reviewing papers: drop in submissions to review, along with an SOP describing what to pay attention to during review.
 
 ## Contents
 
-- `EMNLP_Demo_Review_SOP.md` — Standard operating procedure for reviewing: official track criteria, a read-through/deep-read/claim-check workflow, reproducibility checks, and how to structure the final review.
-- `*.pdf` — Submitted papers under review.
-- `*.mp4` — Submission demo video(s).
+- `EMNLP_Demo_Review_SOP.md` — Review SOP: workflow for read-through/deep-read/claim-checking, reproducibility checks, and how to structure the final review write-up. (Current version is tailored to an EMNLP Demo Track submission; adapt the venue-specific criteria section if reviewing for a different venue/track.)
+- `*.pdf` — Papers under review.
+- `*.mp4` — Any accompanying demo video(s) submitted with a paper.
 
-## Review Process
+## Usage
 
-Follow `EMNLP_Demo_Review_SOP.md` for the full workflow. In short: check the paper against the official demo track criteria (problem, novelty, evaluation, license, comparison to existing systems), read for content and claims, check the demo video/reproducibility, then write up strengths, weaknesses, questions for authors, and scores.
-
-## Notes
-
-- Review process is single-blind; author identities are visible.
-- No rebuttal stage — reviews must be complete and final on first submission.
-- Submissions without any evaluation, or missing a demo video/live demo link, are subject to desk rejection per this year's rules.
+1. Drop the paper(s) to review (and any supplementary material, e.g. demo videos) into this folder.
+2. Follow the applicable SOP file for the review workflow.
+3. Write up strengths, weaknesses, questions for authors, and scores per the SOP's structure.
